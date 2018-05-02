@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import ShowScreen from './ShowScreen';
 
 class App extends Component {
-  
 
   render() {
     return (
